@@ -1,0 +1,22 @@
+###########################
+## Unreal Generated Files##
+###########################
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/saved
+
+#specific folder
+ChromakeyProjekt/Content/StarterContent/
+
+#######################
+## VS Generated Files##
+#######################
+*.VC.db
+
+#####################
+## Other extensions##
+#####################
+
+*.ini
