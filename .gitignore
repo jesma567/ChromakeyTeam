@@ -1,22 +1,25 @@
-###########################
-## Unreal Generated Files##
-###########################
-*/Build
-*/Binaries
-*/DerivedDataCache
-*/Intermediate
-*/saved
-
-#specific folder
-ChromakeyProjekt/Content/StarterContent/
-
-#######################
-## VS Generated Files##
-#######################
-*.VC.db
-
-#####################
-## Other extensions##
-#####################
-
-*.ini
++###########################
++## Unreal Generated Files##
++###########################
++*/Build
++*/Binaries
++*/DerivedDataCache
++*/Intermediate
++*/saved
++
++#specific folder
++ChromakeyProjekt/Content/StarterContent/
++
++#######################
++## VS Generated Files##
++#######################
++*.VC.db
++
++#####################
++## Other extensions##
++#####################
++
++*.ini
+ChromakeyProjekt/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset
+ChromakeyProjekt/Content/StarterContent/Textures/T_Gradinet_01.uasset
+ChromakeyProjekt/Content/StarterContent/Textures/T_Ground_Grass_D.uasset
